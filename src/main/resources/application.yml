@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: moneytracker
+  flyway:
+    enabled: true
+  threads:
+    virtual:
+      enabled: true
